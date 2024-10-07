@@ -14,6 +14,6 @@ Responda aqui as perguntas que você respondeu em sala de aula durante sua apres
 - **Sua experiência na área**  
 - **Por que você escolheu fazer Engenharia de Software?**
 
-# Resposta ao exercício:                                                                          Nota 1/1
+# Resposta ao exercício - Nota 1/1
 
-
+![image](https://github.com/user-attachments/assets/aaf3ed86-fe71-4074-98ad-1de46bc6f7de)
