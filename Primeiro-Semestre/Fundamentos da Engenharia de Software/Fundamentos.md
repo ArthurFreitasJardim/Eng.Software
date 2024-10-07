@@ -1,6 +1,6 @@
 # Fundamentos da Engenharia de Software
 
-Realizei esta disciplina sob a orientação do professor e coordenador do curso, [Laerte Xavier](https://github.com/xavierlaerte).
+Realizei esta disciplina sob a orientação do professor e coordenador do curso, [Laerte Xavier]([https://github.com/xavierlaerte](https://www.linkedin.com/in/laerte-xavier-b322b816/)).
 
 ## Dica
 
