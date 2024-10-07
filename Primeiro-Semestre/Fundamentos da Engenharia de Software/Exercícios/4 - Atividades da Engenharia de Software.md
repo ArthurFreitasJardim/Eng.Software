@@ -1,6 +1,6 @@
 # Instrução do exercício:
 
-Com base neste documento de [licitação](imgs/licitação.pdf), identifique as atividades da Engenharia de Software objeto da licitação classificando-as em atividades técnicas ou gerenciais.
+Com base neste documento de [licitação](https://github.com/ArthurFreitasJardim/Eng.Software/blob/main/Primeiro-Semestre/Fundamentos%20da%20Engenharia%20de%20Software/imgs/licitação.pdf), identifique as atividades da Engenharia de Software objeto da licitação classificando-as em atividades técnicas ou gerenciais.
 
 # Resposta ao exercício - Nota 1/1
 
