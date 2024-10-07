@@ -48,3 +48,10 @@ Essa parte da tarefa corresponde a 3 pontos e deve ser concluída até o dia 11/
 **Total de pontos:** 10
 
 # Resposta ao exercício - Nota 3,5/5
+
+![Resumo de artigo técnico-científico-1](https://github.com/user-attachments/assets/e6059d02-0161-494c-825c-356040b59410)
+![Resumo de artigo técnico-científico-2](https://github.com/user-attachments/assets/0b4151a8-e612-47aa-a1cb-e358b10eb00c)
+![Resumo de artigo técnico-científico-3](https://github.com/user-attachments/assets/70005a47-f2b1-4ccb-8be2-77009e7a3844)
+![Resumo de artigo técnico-científico-4](https://github.com/user-attachments/assets/ab4e32e2-ecc1-41aa-8cf7-7d2acbeb0fa6)
+
+
