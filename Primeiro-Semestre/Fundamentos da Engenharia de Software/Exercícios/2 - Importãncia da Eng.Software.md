@@ -13,4 +13,6 @@ E responda, aqui nesse fórum, a seguinte pergunta:
 
 Apresente apenas uma razão, não precisa ser a mais relevante. Tente encontrar uma razão diferente das já apresentadas pelos seus colegas. Não é necessário entregar um documento separado, apenas usar o botão Responder e enviar sua resposta nesse fórum.
 
-# Resposta ao exercício:                                                                          Nota 1/1
+# Resposta ao exercício - Nota 1/1
+
+![image](https://github.com/user-attachments/assets/407bd422-04b4-439d-9cdf-82eab95259e3)
