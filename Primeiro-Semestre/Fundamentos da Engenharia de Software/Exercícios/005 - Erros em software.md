@@ -12,3 +12,4 @@ Procure refletir e indique qual foi a origem do erro:
 
 # Resposta ao exercício - Nota 1/1
 
+![Erros de software-1](https://github.com/user-attachments/assets/96613c03-3682-4813-b84a-8af166fe8bcc)
