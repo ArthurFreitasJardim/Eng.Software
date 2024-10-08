@@ -26,3 +26,6 @@ Assista-o e responda as perguntas abaixo.
 ---
 
 # Resposta ao exercício - Nota 2/2
+
+![Comparação_Entre_Obras_de_Arte- Arthur Freitas-1](https://github.com/user-attachments/assets/000edd37-d319-443f-b00c-6839939a9052)
+![Comparação_Entre_Obras_de_Arte- Arthur Freitas-2](https://github.com/user-attachments/assets/24deb14c-08b5-40b2-8e3b-d31b915ab116)
